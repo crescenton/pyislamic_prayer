@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyislamic-prayer",
-    version="1.0.0",
+    version="1.0.1",
     author="Syed Sajid Ul Haq",
     author_email="crescentononline@gmail.com",
     description="Open-source Islamic prayer times engine with madhabs, calculation methods, high-latitude rules, and Qibla direction",

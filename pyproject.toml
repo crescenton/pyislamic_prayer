@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyislamic-prayer"
+version = "1.0.0"
+description = "Astronomy-based Islamic prayer time calculation engine in Python"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+
+authors = [
+  { name="Syed Sajid Ul Haq" },
+  { name="Syed Abid Ul Haq" }
+]
+
+keywords = [
+  "islamic",
+  "prayer times",
+  "qibla",
+  "namaz",
+  "astronomy",
+  "calculation"
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/crescenton/pyislamic-prayer"
+Repository = "https://github.com/crescenton/pyislamic-prayer"

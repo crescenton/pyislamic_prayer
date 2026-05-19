@@ -7,7 +7,7 @@ An open-source, astronomy-based Islamic prayer time calculation engine written i
 ## 👨‍💻 Developers
 
 - [Syed Sajid Ul Haq](https://github.com/syedsajidulhaq)  
-- [Syed Abid Ul Haq](https://github.com/abidulhaq)  
+- [Syed Abid Ul Haq](https://github.com/syedabidulhaq)  
 
 ## 🏢 Organization
 **Crescenton**
